@@ -15,3 +15,6 @@ externalPort = 8099
 [[ports]]
 localPort = 20000
 externalPort = 8099
+
+run = "bash start.sh"
+
